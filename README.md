@@ -52,7 +52,7 @@ Passi da seguire per caricare il progetto e poterlo eseguire:
  Entrambe le directory ("summer2winter" e "data") devono essere caricate nella cartella principale del proprio Drive (allo stesso modo di quanto fatto con gli script .py).
  
  
- Il file .rar rinominato "Generated samples_V2" contiene alcuni campioni di immagini generate a partire dal modello V2 facendo uso del solo training set. 
+La directory "Results" contiene i risultati ottenuti mediante i modelli V1 e V2. In particolare, i risultati del modello V2 sono stati ottenuti utilizzando i campioni del training set. 
                        
                        
                   
